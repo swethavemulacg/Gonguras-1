@@ -18,7 +18,7 @@ import com.cg.gongurasrest.entity.Items;
 import com.cg.gongurasrest.service.ItemsService;
 
 @RestController
-@RequestMapping("/gmarket")
+@RequestMapping("/gongura")
 public class ItemsController {
 	
 	@Value("${msgkey}")
